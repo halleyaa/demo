@@ -1,0 +1,1543 @@
+{
+  "total": 423,
+  "data": [
+    {
+      "id": 2648,
+      "name": "Ching-kuo Chi-Hai Cultural Park",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "The Ching-kuo Chi-Hai Cultural Park covers an area of 3.98 hectares, while the buildings cover an area of approximately 6,500 square meters. The property features large areas of green space, public art, and walking trails. The building design is in harmony with the natural environment and complies with diamond-level green building standards.\r\n▲Image Source：Ching-kuo Chi-Hai Cultural Park\r\n\r\nThe park is centered on the Chi-Hai Residence and the Chiang Ching-kuo Presidential Library, with an attached visitor center. It is set amidst the beautiful scenery of\r\nChi-Hai Lake and Jiantan Mountain, incorporating a trail around the lake. The park seeks to preserve the memory of Chang Ching-kuo&#39;s life and revitalize this\r\nimportant historical site.\r\n▲Image Source：Ching-kuo Chi-Hai Cultural Park\r\n\r\nChi-Hai Residence\r\nThe Chi-Hai Residence was the home of ChiangChing-kuo and Faina. The simple furnishings of the residence reflect Chang Ching-kuo&#39;s unpretentious and unassuming demeanor. Visitors can view the displays in the anteroom to learn about the history, architecture, and surroundings of the residence.\r\n▲Image Source：Ching-kuo Chi-Hai Cultural Park\r\n\r\nExhibition Halls\r\nExhibition halls dedicated to the life of Chiang Ching-kuo. The First Exhibition Hall is themed &quot;The Driving Force Behind Taiwan&#39;s Modernization,&quot; while the Second Exhibition Hall is themed &quot;Contemplating the Passage of Time.&quot; The exhibition halls present Chiang Ching-kuo&#39;s personality, important life experiences.\r\n▲Image Source：Ching-kuo Chi-Hai Cultural Park",
+      "open_time": "",
+      "zipcode": "104",
+      "distric": "Zhongshan Dist.",
+      "address": "No. 301, Bei'an Road,Zhongshan Dist.,Taipei City 104",
+      "tel": "+886-2-25326077",
+      "fax": "",
+      "email": "service@ccklibrary.org.tw",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.07951600233075,
+      "elong": 121.53597593307494,
+      "official_site": "https://ccklibrary.org.tw/",
+      "facebook": "",
+      "ticket": "Please refer to the official website for admission rules, fares, and opening hours",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-17 15:02:50 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2648",
+      "category": [
+        {
+          "id": 13,
+          "name": "Historic Sites"
+        },
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 141,
+          "name": "Accessibility for the Disabled"
+        },
+        {
+          "id": 144,
+          "name": "Dinning"
+        },
+        {
+          "id": 145,
+          "name": "Shopping"
+        },
+        {
+          "id": 146,
+          "name": "Toilets"
+        },
+        {
+          "id": 147,
+          "name": "Parking"
+        },
+        {
+          "id": 150,
+          "name": "Locker"
+        }
+      ],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2230,
+      "name": "Monga-Longshan Culture & Creative B2",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Wanhua District has rich culture. Longshan Cultural &amp; Creative Base takes &quot;cultivating local designers, artists, and creators&quot; as its most important mission. It develops local brands and provides touring services, art performances, interactive activities, and so on, for tourists to participate and experience.&nbsp;\r\n\r\nOnce you enter the underground street on the B2 floor of the Longshan Temple, you will see the wall of the small Wanhua old street. The feeling here is totally not the same as the Wanhua Mall in B1. Each store shows its special design that merges Wanhua&rsquo;s traditions with new ideas; here, visitors from different generations can find and learn about Wanhua&#39;s cultural and creative goods.\r\n&nbsp;",
+      "open_time": "",
+      "zipcode": "108",
+      "distric": "Wanhua Dist.",
+      "address": "B2F., No. 145, Sec. 1, Xiyuan Rd.,Wanhua Dist.,Taipei City 108",
+      "tel": "+886-2-23021598",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03607,
+      "elong": 121.49989,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/mongaB2/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-12 05:02:27 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2230",
+      "category": [
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        },
+        {
+          "id": 24,
+          "name": "Themed Shopping Areas"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1689,
+      "name": "Ningxia Road Night Market",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Located by the Datong District traffic circle, this night market offers a nostalgic retreat to the Taipei of earlier years. The snack stalls and other shops here are known for their friendly service, making this a popular spot for eating and shopping.",
+      "open_time": "Daily18:00~24:00",
+      "zipcode": "103",
+      "distric": "Datong Dist.",
+      "address": "Nanjing W. Rd.,Datong Dist.,Taipei City 103",
+      "tel": "+886-2-25505220",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.054,
+      "elong": 121.51329,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-12 05:02:14 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/1689",
+      "category": [
+        {
+          "id": 23,
+          "name": "Night Markets"
+        }
+      ],
+      "target": [
+        {
+          "id": 62,
+          "name": "Campus teaching"
+        }
+      ],
+      "service": [
+        {
+          "id": 144,
+          "name": "Dinning"
+        },
+        {
+          "id": 145,
+          "name": "Shopping"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/221831",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221832",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221823",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221824",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221825",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221826",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221827",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221828",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221829",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/221830",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2096,
+      "name": "Syntrend Creative Park",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "The Syntrend Creative Park is located at the junction of Section 3 of the Civic Avenue and Jinshan North Road. Its spatial planning incorporates multiple concepts such as technology and life, trendy audio and video, parent-child entertainment, anime culture, exploratory experiences, and art exhibitions. Digital displays and diverse imagery are ubiquitous in the park to catalyze infinite imaginations of life.\r\n\r\nThe park is committed to a humanistic ideal to build a platform for future life. It looks forward to leading the public to reconstruct the connection between technology, culture and life through interaction activities, sharing of experiences, exploration of new possibilities, learning, and inventions.\r\n\r\nFrom adjacency to the Guanghua Digital Plaza, the park also provides visitors with convenient access to more options for purchasing electronic and digital products.\r\n&nbsp;",
+      "open_time": "",
+      "zipcode": "100",
+      "distric": "Zhongzheng Dist.",
+      "address": "No. 2, Sec. 3, Civic Blvd.,Zhongzheng Dist.,Taipei City 100",
+      "tel": "+886-809-093300",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04535,
+      "elong": 121.53111,
+      "official_site": "https://www.syntrend.com.tw/en/",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-12 05:01:57 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2096",
+      "category": [
+        {
+          "id": 19,
+          "name": "Family Activities"
+        },
+        {
+          "id": 24,
+          "name": "Themed Shopping Areas"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 144,
+          "name": "Dinning"
+        },
+        {
+          "id": 145,
+          "name": "Shopping"
+        },
+        {
+          "id": 146,
+          "name": "Toilets"
+        },
+        {
+          "id": 147,
+          "name": "Parking"
+        },
+        {
+          "id": 148,
+          "name": "Lost and found"
+        },
+        {
+          "id": 149,
+          "name": "Broadcast Service"
+        },
+        {
+          "id": 150,
+          "name": "Locker"
+        }
+      ],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2227,
+      "name": "MAJI Square",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Hidden in the corner of the Yuanshan Plaza of Taipei Expo Park near the Taipei Fine Arts Museum, MAJI Square was officially opened in June 2013. The square was designed with cargo containers and wooden barns. Elements such as delicacies, original designs, music, art and so on, are combined cleverly here and a life market space with an exotic atmosphere is formed, just like an urban amusement park.&nbsp;\r\n\r\nMAJI Square contains six areas: farmer&rsquo;s market, food fair, glasshouse market, exotic restaurants, specialty shops, and multipurpose performance space. In this life market square formed by cargo containers and wooden barns, you can get anything you want to eat, drink and play.",
+      "open_time": "",
+      "zipcode": "104",
+      "distric": "Zhongshan Dist.",
+      "address": "No. 1, Yumen St.,Zhongshan Dist.,Taipei City 104",
+      "tel": "+886-2-25977112",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.06966,
+      "elong": 121.52173,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/majisquare/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-05 05:01:50 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2227",
+      "category": [
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        },
+        {
+          "id": 18,
+          "name": "Public Art"
+        },
+        {
+          "id": 24,
+          "name": "Themed Shopping Areas"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 145,
+          "name": "Shopping"
+        }
+      ],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 445,
+      "name": "Chiang Kai-shek Memorial Hall.",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "This memorial hall was built in memory of Chiang Kai-shek, the first president of the Republic of China. Work on the hall began in 1976, a year after President Chiang passed away. Design by C.C. Yang, who was also the architect for The Grand Hotel, the memorial hall is white with a blue roof, representing the dominant colors in the ROC flag; while the emblem of the Chinese Nationalist Party (KMT) adorns the vaulted ceiling. A bronze statue of Chiang looks west symbolically to the Presidential Office Building and mainland China. The front plaza of the hall is also a major venue for democratic assemblies.",
+      "open_time": "Daily 09:00 to 18:00",
+      "zipcode": "100",
+      "distric": "Zhongzheng Dist.",
+      "address": "No. 21, Zhongshan S. Rd.,Zhongzheng Dist.,Taipei City 100",
+      "tel": "+886-2-23431100#3",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03471,
+      "elong": 121.52194,
+      "official_site": "http://www.cksmh.gov.tw/eng/index.php",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-05 05:01:36 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/445",
+      "category": [
+        {
+          "id": 13,
+          "name": "Historic Sites"
+        },
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "Family"
+        },
+        {
+          "id": 62,
+          "name": "Campus teaching"
+        }
+      ],
+      "service": [
+        {
+          "id": 143,
+          "name": "Venue rental"
+        },
+        {
+          "id": 146,
+          "name": "Toilets"
+        },
+        {
+          "id": 147,
+          "name": "Parking"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/222961",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222962",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222963",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222964",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222965",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222966",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222967",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222968",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222969",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/222970",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2160,
+      "name": "Longshan Temple Underground Shopping Bazaar",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Longshan Temple Underground Shopping Bazaar is located across Longshan Temple in Wanhua District, and directly below Mengjia Park. There are 7 entrances to access the shopping bazaar on the ground floor. And some entrances are connected to Longshan Temple metro station. Its easy accessibility allows visitors to directly enter the Longshan Temple shopping area from the MRT station through the underground street.\r\n\r\nLongshan Temple Underground Shopping Bazaar has two levels. B1 is a well-known fortune-telling street, where some shops also sell lucky charms and daily necessities. B2 is a clean, well-lit cultural and creative shopping street, on which every store combines traditional and innovative elements to offer its own characteristics.",
+      "open_time": "",
+      "zipcode": "108",
+      "distric": "Wanhua Dist.",
+      "address": "B1,B2. No. 145, Sec. 1, Xiyuan Rd.,Wanhua Dist.,Taipei City 108",
+      "tel": "+886-2-23065988#24",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03607,
+      "elong": 121.49989,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-05 05:01:25 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2160",
+      "category": [
+        {
+          "id": 24,
+          "name": "Themed Shopping Areas"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 599,
+      "name": "The Grand Hotel",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Established in 1952, the Grand Hotel is a 14-story palatial building towering on the hillside of Yuanshan and surrounded by Keelung River in the front, Mt. Yangmingshan in the back, Songshan to the east and Tamsui to the west. With its signature red columns and golden roof, the hotel&rsquo;s magnificent exterior presents a sumptuously classic ambiance that reflects the beauty of traditional Chinese arts. The hotel is one of Taipei City&rsquo;s world-renowned landmarks, and also the premium choice for travel accommodation or business conferences for people worldwide.\r\n\r\nThe beauty of the Grand Hotel comes from its stately Chinese-style structures and splendid classic setting; the mystique of the hotel lies in its legendary, historic significance and the rumor about a secret underground passageway; one can chalk the hotel&rsquo;s otherworldly serenity to its great location, adjacent to a scenic belt away from the urban bustle.\r\n\r\nThe century-old golden dragons\r\nThe bronze dragons were initially desgined statues guarding the entrance to Taiwan Jinjia (built in 1901 in the style of a Japanese Shinto shrine). They were carefully preserved during re-constructions of the Grand Hotel, to be later perfectly displayed in the hotel&rsquo;s Gold Dragon Restaurant; the dragons were accentuated with 24-karat gold plating as part of the hotel&rsquo;s renovation efforts in 1987. It is worth noting that these dragons have three claws only, compared to the four or five claws on dragons depicted in traditional Chinese paintings.\r\n\r\nPlum-flower caisson ceiling\r\nOn the center of the hotel lobby&rsquo;s ceiling is a plum blossom-shaped caisson, with five golden dragons encircling a pearl, suggesting the &ldquo;Five Blessings.&rdquo; Inspired by the Chinese pronunciation of &ldquo;3&rdquo; sounding like &ldquo;rise&rdquo; and the number 16 plus the large plum blossom, the 23 golden dragons and 16 phoenixes in the caisson were deliberately designed to signify rising to prominence and continuous profits, respectively. The caisson ceiling is also a profound traditional symbol of prosperity, represented by the dragons and phoenixes.\r\n\r\nUpturned eaves and bucket arch\r\nOn the rooftop, both the upturned eaves and bucket arch embody ancient Chinese culture. While a row of animals crouch above the vertical ridge of the dramatically upturned eaves, the Chiwei, or monster-like ornaments made from roofing shingles, are poised between the main ridge and vertical ridge. The sumptuously delicate yet robust bucket arch structure under the roof is one of the greatest wonders in Chinese architecture.\r\n\r\nGlass doors of the hotel lobby\r\nThe gigantic, yet gracefully symmetrical, floor-to-ceiling glass doors of the lobby serve as the front entrance of The Grand Hotel. Look closely, and you will see six ancient Chinese characters signifying &ldquo;Long Live the Republic of China&rdquo;, hidden under the decorative patterns. The creativity of the design and how times have changed are surely impressive, considering the historical background of the hotel.\r\n\r\nStone tablet\r\nErected at the beginning of a stone staircase leading to the arched entrance is a giant stone tablet inscribed with the cursive-style characters &ldquo;Jian-Tan-Sheng-Ji&rdquo;. After verification from various sources, the words depicted in the free-flowing and powerful calligraphic work of the late politician Yu You-ren, are believed to mean that the Yuanshan area is sanctified, which offers an explanation for the Grand Hotel remaining popular and revered over the past century.",
+      "open_time": "",
+      "zipcode": "104",
+      "distric": "Zhongshan Dist.",
+      "address": "No. 1, Sec. 4, Zhongshan N. Rd.,Zhongshan Dist.,Taipei City 104",
+      "tel": "+886-2-28868888",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.07858,
+      "elong": 121.52614,
+      "official_site": "https://www.grand-hotel.org/EN/index.aspx#",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-05 05:01:23 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/599",
+      "category": [
+        {
+          "id": 13,
+          "name": "Historic Sites"
+        }
+      ],
+      "target": [
+        {
+          "id": 66,
+          "name": "Hiker"
+        }
+      ],
+      "service": [
+        {
+          "id": 141,
+          "name": "Accessibility for the Disabled"
+        },
+        {
+          "id": 143,
+          "name": "Venue rental"
+        },
+        {
+          "id": 144,
+          "name": "Dinning"
+        },
+        {
+          "id": 145,
+          "name": "Shopping"
+        },
+        {
+          "id": 146,
+          "name": "Toilets"
+        },
+        {
+          "id": 147,
+          "name": "Parking"
+        },
+        {
+          "id": 148,
+          "name": "Lost and found"
+        },
+        {
+          "id": 149,
+          "name": "Broadcast Service"
+        },
+        {
+          "id": 150,
+          "name": "Locker"
+        },
+        {
+          "id": 151,
+          "name": "Accommodation"
+        },
+        {
+          "id": 152,
+          "name": "Nursery service"
+        }
+      ],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2282,
+      "name": "The Wall Live House",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "The Wall Live House is situated in Gongguan Shopping District, Taipei City. It is an artistic space that combines music, movies, food, clothes, toys, exhibitions, WiFi, tattoo art, and live shows.&nbsp;\r\n\r\nIf you&rsquo;re travelling in Taipei City in the evening, why not pay a visit to The Wall and enjoy some live music.",
+      "open_time": "",
+      "zipcode": "116",
+      "distric": "Wenshan Dist.",
+      "address": "B1 No. 200, Sec. 4, Roosevelt Rd.,Wenshan Dist.,Taipei City 116",
+      "tel": "+886-2-29300162",
+      "fax": "",
+      "email": "info@thewall.com.tw",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.01091,
+      "elong": 121.53666,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/thewall.tw/",
+      "ticket": "",
+      "remind": "Visit the official website for more information on shows and ticket prices.",
+      "staytime": "",
+      "modified": "2023-11-01 14:54:54 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2282",
+      "category": [
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2285,
+      "name": "Art Space Kin Gyo Koo Kan",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Art Space Kin Gyo Koo Kan is an art gallery founded by a Japanese in 2012. It is an art gallery that mainly hosts exhibitions of Japanese artists. &ldquo;Kin Gyo&rdquo; and &ldquo;Koo Kan&rdquo; mean &ldquo;gold fish&rdquo; and &ldquo;space&rdquo; in Japanese, respectively.\r\n\r\nArt Space Kin Gyo Koo Kan insists on providing a space for artists that possess fundamental art skills, such as sketching. It showcases original artworks that are slightly incongruous yet arresting and unique.",
+      "open_time": "",
+      "zipcode": "103",
+      "distric": "Datong Dist.",
+      "address": "2F., No. 18, Ln. 1, Sec. 2, Chengde Rd,Datong Dist.,Taipei City 103",
+      "tel": "+886-2-2550 5818 、+886-975123960",
+      "fax": "",
+      "email": "chin_to_sia@yahoo.co.jp",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.06326,
+      "elong": 121.51807,
+      "official_site": "https://www.kingyokookan.com",
+      "facebook": "https://www.facebook.com/Kingyokookan/",
+      "ticket": "",
+      "remind": "For more information on exhibitions, please visit its official website.",
+      "staytime": "",
+      "modified": "2023-11-01 14:54:35 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2285",
+      "category": [
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2358,
+      "name": "Rainbow Six",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "On the 17th of May 2019, Taiwan became the first country in Asia to legalize same-sex marriage. Taipei City, thanks to the efforts of various organizations, set up rainbow landscaping, the &quot;Rainbow Six&quot;, at exit No.6 of Ximen MRT Station on the 25th of September, symbolizing Taipei City&#39;s respect for human rights and its active efforts in promoting sex equality and gender friendliness. This new rainbow landscape also became a popular tourist check-in attraction of Taipei City.",
+      "open_time": "",
+      "zipcode": "108",
+      "distric": "Wanhua Dist.",
+      "address": "Hanzhong St (exit No.6 of Ximen MRT Station),Wanhua Dist.,Taipei City 108",
+      "tel": "+886-2-27208889",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04347,
+      "elong": 121.50722,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:45:42 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2358",
+      "category": [
+        {
+          "id": 18,
+          "name": "Public Art"
+        },
+        {
+          "id": 24,
+          "name": "Themed Shopping Areas"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2233,
+      "name": "Yingshin Pier on Shezidao",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Yingshin Pier is next to Shezi Bridge. Since the pier uses special yachts to make artificial waves, people can feel the excitement of water skiing and surfing in the City; therefore various water-skiing events and exciting performances are often held here.&nbsp;\r\n\r\nWhen you visit Yingshin Pier, we also suggest you drop by at Shezidao Daotou Park. At the Park, you can watch the splendid abundant wetland ecology where the Keelung River and the Danshui River merge into the sea. Riding bikes or strolling are both very good ways to visit here.",
+      "open_time": "",
+      "zipcode": "111",
+      "distric": "Shilin Dist.",
+      "address": "No. 358, Ln. 106, Sec. 7, Yanping N. Rd.,Shilin Dist.,Taipei City 111",
+      "tel": "+886-2-27208889",
+      "fax": "",
+      "email": "",
+      "months": "",
+      "nlat": 25.10852,
+      "elong": 121.49551,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:45:11 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2233",
+      "category": [
+        {
+          "id": 17,
+          "name": "Blue Highway"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2425,
+      "name": "Dancing Butterfly Inclusive Playground",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Dancing Butterfly Inclusive Playground in Taipei Expo Park&rsquo;s Fine Arts Park Area is based on the theme, &ldquo;Dancing with Butterflies&rdquo;, and the highlights of the facilities are butterfly and caterpillar characters.\r\n\r\nThe inclusive playground has a large variety of facilities, including swings for wheelchair users and roller slides designed for physically-challenged children, in an attempt to better meet the diverse needs of users.",
+      "open_time": "",
+      "zipcode": "104",
+      "distric": "Zhongshan Dist.",
+      "address": "No. 181, Sec. 3, Zhongshan N. Rd.,Zhongshan Dist.,Taipei City 104",
+      "tel": "+886-2-25850192",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.06871,
+      "elong": 121.52402,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:41:44 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2425",
+      "category": [
+        {
+          "id": 19,
+          "name": "Family Activities"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2423,
+      "name": "Central Culture Park_Huashan Prairie Playground",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Huashan Prairie Playground is located behind Huashan 1914 Creative Park. It is a new children&rsquo;s playground in Central Culture Park, linked through images, such as railway tracks and tunnels.\r\n\r\nThe most representative structure in the playground is the &ldquo;chimney game tower&rdquo;, where the exterior of the chimney resembles that of Taipei Wine Factory. The playground offers a wide variety of recreational facilities and attractions, making it an ideal place for both adults and children to have fun.",
+      "open_time": "",
+      "zipcode": "100",
+      "distric": "Zhongzheng Dist.",
+      "address": "No. 30, Beiping E. Rd.,Zhongzheng Dist.,Taipei City 100",
+      "tel": "+886-2-23032451",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04612,
+      "elong": 121.52683,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:41:28 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2423",
+      "category": [
+        {
+          "id": 16,
+          "name": "Outing Locations"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "Family"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2424,
+      "name": "Xiangti Avenue Plaza",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Xiangti Avenue Plaza, surrounded by Shin Kong Mitsukoshi&#39;s Taipei Xinyi Place Halls A8 to A11, is an outdoor plaza in Xinyi District where most shoppers come across each other. The surrounding shopping areas offer diverse shops and restaurants, and the plaza also provides venue rental services for various kinds of brand promotion activities.\r\n\r\nXiangti Avenue Plaza is open for street artists to apply for giving a wide variety of performances, such as music, magic show, stunt or living statue. Shoppers can sit under the trees to rest their feet and enjoy a performance or two after shopping.",
+      "open_time": "",
+      "zipcode": "110",
+      "distric": "Xinyi Dist.",
+      "address": "No. 11, Songshou Rd,Xinyi Dist.,Taipei City 110",
+      "tel": "+886-2-27208889",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03725,
+      "elong": 121.56698,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:40:43 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2424",
+      "category": [
+        {
+          "id": 18,
+          "name": "Public Art"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2487,
+      "name": "Taiwan Power Corporation President’s Residence",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Established around 1930, Taiwan Power Corporation President&rsquo;s Residence served as the guesthouse of the then central government and the Provincial Governor&#39;s residence. Constructed in the western style, the building has tiled roofs, white walls and arch windows, expressing the delightful taste of Italian or Spanish villas in southern Europe.",
+      "open_time": "",
+      "zipcode": "100",
+      "distric": "Zhongzheng Dist.",
+      "address": "No. 119, Yanping S. Rd.,Zhongzheng Dist.,Taipei City 100",
+      "tel": "+886-2-23687860",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03985,
+      "elong": 121.50942,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "Currently, the Residence is open for those who make reservations in advance. For reservation, please download the application form from Taipower website.",
+      "staytime": "",
+      "modified": "2023-11-01 14:40:15 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2487",
+      "category": [
+        {
+          "id": 13,
+          "name": "Historic Sites"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2531,
+      "name": "Taipei City Council",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Taipei City Council is a local legislative organization which represents the citizens in supervising the municipal administration, with the district councilors who represent the pluralistic society executing legislative authority. Through the process of proposal, discussion, debate and negotiation, and based on the principle of &ldquo;majority rule and respect for minority rights&rdquo; of majoritarian democracy, it allows diverse public opinions to become policies and laws to be complied by the citizens, safeguarding the rights of the residents.",
+      "open_time": "",
+      "zipcode": "110",
+      "distric": "Xinyi Dist.",
+      "address": "No. 507, Sec. 4, Ren'ai Rd.,Xinyi Dist.,Taipei City 110",
+      "tel": "+886-2-27297708",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03815,
+      "elong": 121.56198,
+      "official_site": "https://www.tcc.gov.tw/en/cp.aspx?n=BBF5C83DDCCEE939",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:39:26 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2531",
+      "category": [
+        {
+          "id": 21,
+          "name": "101 Highlights"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 141,
+          "name": "Accessibility for the Disabled"
+        }
+      ],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2529,
+      "name": "Boundary between Heaven and Man",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "The two gigantic hands outside Taipei Nangang Exhibition Center is public art, &ldquo;Boundary between Heaven and Man&rdquo;, featuring one finger pointing to the ground and another to the sky. At the point where the fingers touch are 9 adjacent colored kiln-fired glass rings, distinguishing the world of nature and the civilized world, and symbolizing infinity.",
+      "open_time": "",
+      "zipcode": "115",
+      "distric": "Nangang Dist.",
+      "address": "No. 1, Jingmao 2nd Rd.,Nangang Dist.,Taipei City 115",
+      "tel": "+886-2-87712345",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05592,
+      "elong": 121.61695,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:38:55 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2529",
+      "category": [
+        {
+          "id": 18,
+          "name": "Public Art"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2489,
+      "name": "Yuyu Yang Museum",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Nestling in the Nanhai Academy, the center of humanities and culture, and neighboring National Museum of History, National Taiwan Arts Education Center, Taipei Botanical Garden and other cultural hubs, Yuyu Yang Museum is filled with a strong artistic and academic atmosphere.\r\n\r\nThe Museum serves as a multi-functional art space that combines humanities, life, aesthetics, creativity and leasing services. This is an ideal spot where you can read, take a break, savor an exquisite cup of coffee, listen to life experiences, or participate in artistic and cultural lectures that share knowledge.",
+      "open_time": "",
+      "zipcode": "100",
+      "distric": "Zhongzheng Dist.",
+      "address": "No. 31, Sec. 2, Chongqing S. Rd.,Zhongzheng Dist.,Taipei City 100",
+      "tel": "+886-2-23961966",
+      "fax": "+886-2-23567306",
+      "email": "yuyu.art@msa.hinet.net",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03212,
+      "elong": 121.51443,
+      "official_site": "http://www.yuyuyang.org.tw/",
+      "facebook": "https://www.facebook.com/%E6%A5%8A%E8%8B%B1%E9%A2%A8%E7%BE%8E%E8%A1%93%E9%A4%A8-252118954874233/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:30:21 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2489",
+      "category": [
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2485,
+      "name": "Taiwan Design Museum",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "As the world&#39;s first Chinese specialized museum with &quot;design&quot; as its main exhibition theme, Taiwan Design Museum houses precious classic design works and showcases the history of Taiwanese design development.\r\n\r\nFrom time to time, diversified and interdisciplinary theme exhibitions are organized to showcase domestic and international design trends and award-winning works to convey aesthetic messages of life and education.",
+      "open_time": "",
+      "zipcode": "110",
+      "distric": "Xinyi Dist.",
+      "address": "No. 133, Guangfu S. Rd.,Xinyi Dist.,Taipei City 110",
+      "tel": "+886-2-27458199",
+      "fax": "",
+      "email": "tdm@tdc.org.tw",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04371,
+      "elong": 121.55974,
+      "official_site": "https://www.tdri.org.tw/?lang=en",
+      "facebook": "https://www.facebook.com/TDMuseum/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:29:43 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2485",
+      "category": [
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        }
+      ],
+      "target": [
+        {
+          "id": 62,
+          "name": "Campus teaching"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2433,
+      "name": "Chifeng Street",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "The area in Chifeng Street and Chengde Road, between MRT Shuanglian Station and MRT Zhongshan Station, used to primarily sell automotive parts and hardware and is thus known as the &ldquo;blacksmith street&rdquo;.\r\n\r\nToday&rsquo;s Chifeng Street is dotted with hipster cafes, art museums and specialty restaurants, which adds artistic ambience to the old street and ancient houses and attracts many visitors. Chifeng Street is a nice place for sipping a leisurely cup of afternoon tea and enjoying some artistic air.",
+      "open_time": "",
+      "zipcode": "103",
+      "distric": "Datong Dist.",
+      "address": "Chifeng Street,Datong Dist.,Taipei City 103",
+      "tel": "+886-2-27208889",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05536,
+      "elong": 121.51965,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:27:58 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2433",
+      "category": [
+        {
+          "id": 24,
+          "name": "Themed Shopping Areas"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/292403",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292404",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292405",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292406",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292407",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292408",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292409",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292410",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292411",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/292402",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2534,
+      "name": "X-Power Gallery",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "X-Power Gallery is dedicated to uncovering the world&rsquo;s beautiful art pieces which contain rich cultural values, and sharing the art work with collectors around the world through the gallery platform.\r\n\r\nX-Power Gallery also actively organizes world tours for the artists, hosts domestic and overseas art competitions, and participates in major international art exhibitions.",
+      "open_time": "",
+      "zipcode": "105",
+      "distric": "Songshan Dist.",
+      "address": "B1 No. 207, Dunhua N. Rd.,Songshan Dist.,Taipei City 105",
+      "tel": "+886-2-77078299",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05801,
+      "elong": 121.54952,
+      "official_site": "https://www.xpower-gallery.com/eng/index.html",
+      "facebook": "https://www.facebook.com/XPowerGallery",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:26:43 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2534",
+      "category": [
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2416,
+      "name": "Qianshan Park",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Qianshan Park neighbors the east of Shamao Mountain, and is situated beside Yangmingshan bus station and Teachers&rsquo; In-Service Education Center. The Park has facilities such as swimming pool, skating rink, basketball court, slide and public restrooms, and a free men&rsquo;s and women&rsquo;s hot spring bathhouse by the pond, which attracts many hot spring enthusiasts.\r\n\r\nThe Park also has a lotus pond, small bridges and a stream, making it an ideal place for enjoying the cherry blossoms in spring, beating the heat in summer, getting together in autumn and viewing the color changes of maples in winter.",
+      "open_time": "",
+      "zipcode": "112",
+      "distric": "Beitou Dist.",
+      "address": "No. 117, Shamao Rd.,Beitou Dist.,Taipei City 112",
+      "tel": "+886-2-28616361",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.14964,
+      "elong": 121.54811,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:25:51 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2416",
+      "category": [
+        {
+          "id": 16,
+          "name": "Outing Locations"
+        },
+        {
+          "id": 19,
+          "name": "Family Activities"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "Family"
+        },
+        {
+          "id": 66,
+          "name": "Hiker"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "Toilets"
+        }
+      ],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2476,
+      "name": "Taipei City Hulu Elementary School pedestrian embankment bridge",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "The pedestrian embankment bridge behind Hulu Elementary School is more than an ordinary passageway. Due to its unique arch design and wavy path, and the vast view of Danshui River it offers from outside the embankment at the other end of the bridge, it attracts many photography enthusiasts, making it one of the popular check-in spots.",
+      "open_time": "",
+      "zipcode": "111",
+      "distric": "Shilin Dist.",
+      "address": "Taipei City Hulu Elementary School pedestrian embankment bridge,Shilin Dist.,Taipei City 111",
+      "tel": "+886-2-27208889",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.08332,
+      "elong": 121.5065,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "As this is a bridge for pedestrians and bicycles, visitors are advised against lingering and blocking the way while taking photographs.",
+      "staytime": "",
+      "modified": "2023-11-01 14:25:20 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2476",
+      "category": [
+        {
+          "id": 12,
+          "name": "Cycling Routes"
+        },
+        {
+          "id": 18,
+          "name": "Public Art"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "Family"
+        },
+        {
+          "id": 63,
+          "name": "Cyclists"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2277,
+      "name": "Taishin Tower",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "A long-term sponsor of Taiwan&rsquo;s arts development, Taishin Holdings lends its ground floor lobby as an open space for exhibitions that focus on one piece of work on a monthly basis. A variety of exhibitions are regularly hosted here to support artists&rsquo; creations and continuously promote contemporary art.\r\n\r\nApart from exhibitions, Taishin Tower continues to hold relevant artistic and cultural activities periodically, including lectures, movie nights, and workshops.",
+      "open_time": "",
+      "zipcode": "106",
+      "distric": "Da'an Dist.",
+      "address": "No. 118, Sec. 4, Ren’ai Rd.,Da'an Dist.,Taipei City 106",
+      "tel": "+886-2-37076955",
+      "fax": "",
+      "email": "info@taishinart.org.tw",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03738,
+      "elong": 121.54979,
+      "official_site": "http://www.taishinart.org.tw/index_en.php",
+      "facebook": "https://www.facebook.com/TAISHINART/",
+      "ticket": "Admission is free",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:24:35 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2277",
+      "category": [
+        {
+          "id": 15,
+          "name": "Art and Cultural Centers"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2480,
+      "name": "Dragon Boat Rock Trail",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "&ldquo;Dragon Boat Rock&rdquo;, located at the bottom of the ridge of Kaiyan Mountain, is a piece of exposed white quartz that is 300 meters high. Due to its resemblance to a dragon boat, the locals call it the &ldquo;Rock Boat&rdquo; or &ldquo;Dragon Boat Rock&rdquo;.\r\n\r\nThe trail entrance is located at No.62, Bishan Road, Neihu District, and the entire stone trail is only 600 meters long. It is an ideal place for ecological observation as many species of ferns and wild plants can be spotted along the trail.",
+      "open_time": "",
+      "zipcode": "114",
+      "distric": "Neihu Dist.",
+      "address": "Dragon Boat Rock Trail,Neihu Dist.,Taipei City 114",
+      "tel": "+886-2-27593001",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.10351,
+      "elong": 121.59639,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "As Dragon Boat Rock sits on the ridge, visitors are advised to be especially careful while standing on the rock.",
+      "staytime": "",
+      "modified": "2023-11-01 14:24:03 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2480",
+      "category": [
+        {
+          "id": 16,
+          "name": "Outing Locations"
+        }
+      ],
+      "target": [
+        {
+          "id": 66,
+          "name": "Hiker"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2385,
+      "name": "Maokong Zhangshu Trail",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Zhangshu Trail is one of the popular hiking trails of Maokong. The trail is designed for the purposes of transportation of local produce as well as hiking. Hence, the trail is gentle, suitable for people of all ages to have fun and enjoy scenery.&nbsp;\r\n\r\nThe trail, featuring a simple rural theme, is an ideal trekking place, and presents diverse aspects by incorporating local culture and history and seasonal flowers and harvesting of various crops.&nbsp;",
+      "open_time": "24HR",
+      "zipcode": "116",
+      "distric": "Wenshan Dist.",
+      "address": "Maokong Zhangshu Trail,Wenshan Dist.,Taipei City 116",
+      "tel": "+886-2-27593001",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 24.96733,
+      "elong": 121.58476,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:23:26 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2385",
+      "category": [
+        {
+          "id": 16,
+          "name": "Outing Locations"
+        },
+        {
+          "id": 19,
+          "name": "Family Activities"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "Family"
+        },
+        {
+          "id": 66,
+          "name": "Hiker"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2009,
+      "name": "Zhuzihu",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Situated between Datun Mountain, Qixing Mountain, and Xiaoguanyin Mountain, Zhuzihu is 670 meters above sea level. At first, it was a landslide dam formed by lava eruption. Later, a gap was created by erosion on the side of the lake. Finally, the lake water was lost and it became a fertile wetland.\r\n\r\nAs one of the most popular tourist attractions in Taipei City, Zhuzihu is a typical rural settlement in the mountains and is often covered by clouds and fog.\r\n\r\nZhuzihu Calla Lily Festival\r\nCalla Lilies bloom from February to May each year. As the most significant economic crop of the place, the current production volume of Calla Lilies in Zhuzihu accounts for more than 80% of the total in Taiwan.\r\n\r\nZhuzihu Hydrangea Festival\r\nAt the end of May, the romantic view of the white floral sea comes to an end. The upcoming scenery will be the purple blue hydrangea blossoms during the holiday of Dragon Boat Festival.\r\n\r\nAbout 7 to 8 varieties of hydrangeas are planted in the Zhuzihu area. It is a perfect place to take brilliant pictures due to the diverse colors and beautiful arrangement of flowers.",
+      "open_time": "",
+      "zipcode": "112",
+      "distric": "Beitou Dist.",
+      "address": "Zhuzihu Rd.,,Beitou Dist.,Taipei City 112",
+      "tel": "+886-2-28613601",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.1755,
+      "elong": 121.53677,
+      "official_site": "https://www.ymsnp.gov.tw/main_en/",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:22:47 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2009",
+      "category": [
+        {
+          "id": 16,
+          "name": "Outing Locations"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/293350",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/293351",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/293352",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/293343",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/293344",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/293345",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/293346",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/293347",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/293349",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2229,
+      "name": "Songshan Station",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "Songshan Station is one of the few historical stations in Taiwan. At the time of the first railroad construction from Keelung to Hsinchu during the years of Emperor Guangxu of the Qing dynasty, Songshan was already a simple ticket kiosk.&nbsp;\r\n\r\nSongshan Station is now a union station of Taiwan Railway and Taipei MRT. The west side of the cylindrical shaped station is the main entrance. Because of its unique outlook, it attracts many passengers to pause here and shoot photos.",
+      "open_time": "",
+      "zipcode": "110",
+      "distric": "Xinyi Dist.",
+      "address": "No. 11, Songshan Rd.,Xinyi Dist.,Taipei City 110",
+      "tel": "+886-2-27673819",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04964,
+      "elong": 121.57904,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/tra098",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:22:24 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2229",
+      "category": [
+        {
+          "id": 13,
+          "name": "Historic Sites"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 141,
+          "name": "Accessibility for the Disabled"
+        },
+        {
+          "id": 146,
+          "name": "Toilets"
+        },
+        {
+          "id": 148,
+          "name": "Lost and found"
+        },
+        {
+          "id": 149,
+          "name": "Broadcast Service"
+        }
+      ],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2388,
+      "name": "Dongsanshui Street Market_Xinfu Market",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "At the junction of Kangding Road and Sanshui Street in Wanhua District, there is a signboard that reads &ldquo;Xinfu Market&rdquo; and &ldquo;Dongsanshui Street Market&rdquo;, a place where two traditional markets exist concurrently on the same street.\r\n\r\nDongsanshui Street Market is one of the most important traditional markets in Wanhua District. It has been in existence since 1921, and is a traditional market with historical heritage status. Beside the market is Xinfu Market, a horseshoe-shaped building that has become a cultural museum. &nbsp;You can find every possible product in the market, ranging from fresh and cooked food to daily necessities, and there are many old shops that sell traditional delicacies.&nbsp;",
+      "open_time": "",
+      "zipcode": "108",
+      "distric": "Wanhua Dist.",
+      "address": "Sanshui St.,Wanhua Dist.,Taipei City 108",
+      "tel": "+886-2-23081092",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03602,
+      "elong": 121.5019,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2023-11-01 14:21:37 +08:00",
+      "url": "https://www.travel.taipei/en/attraction/details/2388",
+      "category": [
+        {
+          "id": 24,
+          "name": "Themed Shopping Areas"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "Family"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    }
+  ]
+}
